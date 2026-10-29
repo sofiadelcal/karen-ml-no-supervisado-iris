@@ -2,7 +2,6 @@
 
 Trabajo de Karen para **R1-A3-S12 — Introducción a Machine Learning**, actividad 73638 de la Universidad de Cundinamarca.
 
-[Abrir en Colab](https://colab.research.google.com/github/sofiadelcal/karen-ml-no-supervisado-iris/blob/main/Karen_ML_No_Supervisado_Colab.ipynb) · [Informe en Overleaf](https://www.overleaf.com/project/6ae177ee4450dde92eea2078) · [PDF del informe](Karen_Informe_ML_No_Supervisado_APA.pdf)
 
 ## Pregunta y alcance
 
